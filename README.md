@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-I'm a passionate explorer at the intersection of coding and creativity. My world revolves around Python programming, full-stack development, and the magical realms of Machine Learning and Artificial Intelligence.
+I'm a passionate explorer at the intersection of coding and creativity.
 
 - 🧠 Delving into AI's transformative power, I love turning complex problems into elegant digital solutions.
 - 👨‍💻 Coding not just with my hands, but with my heart, creating experiences that resonate.
