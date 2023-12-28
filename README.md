@@ -1,7 +1,7 @@
 ## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="30px">, Welcome to My Digital Realm! 🌟
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=35&color=red&center=true&vCenter=true&width=1000&height=110&lines=Python+AI+Alchemist;AI+Tech+Strategist;Full-Stack+Visionary;ML+System+Innovator;Tech+Solution+Architect)
 
-<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy-downsized-large.gif" width="350px" />
+<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" width="350px" />
 
 ---
 
