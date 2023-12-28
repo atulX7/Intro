@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px" height="25px">, I'm Abhishek
+## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="10px" height="25px">, Welcome to Gen AI world
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=40&color=github&center=true&vCenter=true&width=900&height=110&lines=A+Passionate+Python+Programmer;Full+Stack+Developer;Machine+Learning;Artificial+Intelligence;)
 
 
@@ -50,4 +50,3 @@
  
 
 </div>
-
