@@ -1,5 +1,6 @@
 ## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="10px" height="25px">, Welcome to Gen AI world
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=40&color=github&center=true&vCenter=true&width=900&height=110&lines=DigitalAlchemist+Python+%26+AI+Expert;CodeCraftsman+%26+AI+Strategist;TechVisionary+Full-Stack+%26+AI+Innovator;SystemsInnovator+Full-Stack+%26+ML+Specialist;SolutionsArchitect+ML+%26+Full-Stack+Mastery)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=30&color=blue&center=true&vCenter=true&width=1000&height=110&lines=Python+AI+Alchemist;AI+Tech+Strategist;Full-Stack+Visionary;ML+System+Innovator;Tech+Solution+Architect)
+
 
 
 
