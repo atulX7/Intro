@@ -21,7 +21,7 @@ Embarking on a journey where code meets creativity and innovation 🚀.
 ### 📡 Let's Connect and Collaborate!
 Join me on this tech adventure, share ideas, or just say hello!
 
-[![LinkedIn Badge](https://img.icons8.com/bubbles/50/000000/linkedin.png)](www.linkedin.com/in/atul7107)
+[![LinkedIn Badge](https://img.icons8.com/bubbles/50/000000/linkedin.png)](https://www.linkedin.com/in/atul7107)
 
 ---
 
